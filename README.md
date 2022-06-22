@@ -26,4 +26,5 @@ Hi there 👋 The name is Dimitri, or D for short
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="redhat" alt="redhat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
