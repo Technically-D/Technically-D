@@ -9,3 +9,7 @@ Hi there 👋 The name is Dimitri, or D for short
 - :sunglasses: Automatate Everything
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning all I can
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
