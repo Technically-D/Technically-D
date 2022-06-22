@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Senior Network Engineer
+- :computer: Senior Network Engineer
 - Linux lover
 - Open source fanatic
 - Automatate Everything
