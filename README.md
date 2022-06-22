@@ -3,6 +3,9 @@
 </div>
 
 Hi there 👋 The name is Dimitri, or D for short
+
+---
+
 - :computer: Senior Network Engineer
 -  :100: Linux lover
 - :heavy_check_mark: Open source fanatic
