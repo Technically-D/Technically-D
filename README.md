@@ -1,10 +1,4 @@
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/MIs9GhWdrgLjq/giphy.gif" width="300"/>
-</div>
-
-
 ### Hi there 👋
 
 - :computer: Senior Network Engineer
