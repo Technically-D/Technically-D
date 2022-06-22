@@ -1,9 +1,10 @@
 <div align="center">
+  <img src="<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>" width="600" height="300"/>
 </div>
 
-Hi there 👋
-- The name is Dimitri, or D for short!!
+Hi there 👋 The name is Dimitri, or D for short
 - :computer: Senior Network Engineer
 -  :100: Linux lover
 - :heavy_check_mark: Open source fanatic
