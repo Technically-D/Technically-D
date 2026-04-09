@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc1cjI3dWRobjI3dW1rZGdxNHVpeGswOTd4Z2hiZ2hnbWdjZmM2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RW9sy8IngoQQU/giphy.gif" width="600" height="350"/>
 </div>
 
 Hi there 👋 The name is Dimitri, or D for short
